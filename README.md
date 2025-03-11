@@ -28,7 +28,7 @@ Il team ha lavorato in parallelo su diverse parti del sito, suddividendo il lavo
 
 Clona il repository:
 
-git clone https://github.com/tuo-username/questionnaire-epicode.git
+git clone https://github.com/PlesAndre/BW1-Questionnaire-Epicode.git
 
 Apri il file index.html direttamente nel browser.
 
